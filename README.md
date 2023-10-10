@@ -4,3 +4,4 @@ SISTA POLBAN merupakan web duplikat sista polban yang merupakan project tugas ak
 
 # Data Analys
 Dengan berbekal minat dan pengalaman pada project base python dan sql, source pada folder Data Analys ini diharapkan bisa menjadi bahan materi untuk referensi belajar bagi khalayak umum. 
+![DEFENDERS](https://github.com/ibaayfadil/fortopolio/assets/139432581/7795fff0-1dfc-4f57-bce7-a8600d39d045)

@@ -1,0 +1,5 @@
+google-auth==2.18.0
+google-api-python-client==2.86.0
+google-auth-oauthlib==1.0.0
+google-cloud-bigquery==3.4.0
+streamlit==1.24.0

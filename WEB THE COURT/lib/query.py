@@ -1,0 +1,1 @@
+CONST_QUERY_GET_AWAY_TEAM_NAME = "SELECT away_team_name FROM `celestial-feat-360315.liga1_thecourt_dataset.bri_liga1_stat` LIMIT 100"

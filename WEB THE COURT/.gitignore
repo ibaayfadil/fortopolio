@@ -1,0 +1,8 @@
+# Ignore credential files
+**/secrets.toml
+
+# Ignore pycache in each folder
+**/__pycache__/
+
+# Ignore file .pyc in each folder
+**/*.pyc

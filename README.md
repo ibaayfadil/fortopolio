@@ -11,3 +11,4 @@ Merupakan web duplikat sista polban yang merupakan project tugas akhir, web ini 
 ## Data Analys
 Dengan berbekal minat dan pengalaman pada project base python dan sql, source pada folder Data Analys ini diharapkan bisa menjadi bahan materi untuk referensi belajar bagi khalayak umum. 
 
+![Uploading WEB HOME.png…]()

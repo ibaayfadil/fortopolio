@@ -3,11 +3,9 @@ Halo, perkenalkan saya Iqbal Fadhlillah, seorang lulusan dalam bidang Teknik Tel
 
 ## Web Design
 Ini merupakan beberapa fortopolio web design dengan base code python dan beberapa framework. 
-1) SISTA POLBAN
-Merupakan web duplikat sista polban yang merupakan project tugas akhir, web ini memiliki fungsi untuk pengamanan file menggunakan enkripsi dan dekripsi AES GCM dengan format file berupa .pdf , .txt , .word , .jpg, .png , .jpeg
+1) SISTA POLBAN, merupakan web duplikat sista polban yang merupakan project tugas akhir, web ini memiliki fungsi untuk pengamanan file menggunakan enkripsi dan dekripsi AES GCM dengan format file berupa .pdf , .txt , .word , .jpg, .png , .jpeg
 2) 
 
 ## Data Analys
 Dengan berbekal minat dan pengalaman pada project base python dan sql, source pada folder Data Analys ini diharapkan bisa menjadi bahan materi untuk referensi belajar bagi khalayak umum. 
 
-F:\FORTOPOLIO\SISTA POLBAN\static\images\WEB ABOUT.png

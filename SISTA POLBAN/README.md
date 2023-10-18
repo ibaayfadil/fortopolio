@@ -21,3 +21,6 @@ $ pip install pycryptodome
 ```bash
 $ python manage.py runserver
 ```
+
+## Display Dashboard
+<img src="https://i.ibb.co/gy0bnPG/WEB-ABOUT.png"/>
